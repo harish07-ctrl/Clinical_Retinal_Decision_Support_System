@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+timm
+efficientnet_pytorch
+opencv-python
+numpy
+Pillow
+onnx
+onnxruntime
+ai-edge-litert
+onnx2tf

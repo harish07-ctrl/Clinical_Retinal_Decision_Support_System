@@ -1,0 +1,7 @@
+image_id,quality_label,label_code,file_path
+EyeQ_01,Good,0,C:\Users\mades\OneDrive\Documents\Desktop\Diabetic-Retinopathy-Severity-Classification-and-Clinical-Reporting-System-main\data\eyeq\images\EyeQ_01.jpg
+EyeQ_02,Good,0,C:\Users\mades\OneDrive\Documents\Desktop\Diabetic-Retinopathy-Severity-Classification-and-Clinical-Reporting-System-main\data\eyeq\images\EyeQ_02.jpg
+EyeQ_03,Good,0,C:\Users\mades\OneDrive\Documents\Desktop\Diabetic-Retinopathy-Severity-Classification-and-Clinical-Reporting-System-main\data\eyeq\images\EyeQ_03.jpg
+EyeQ_04,Usable,1,C:\Users\mades\OneDrive\Documents\Desktop\Diabetic-Retinopathy-Severity-Classification-and-Clinical-Reporting-System-main\data\eyeq\images\EyeQ_04.jpg
+EyeQ_05,Reject,2,C:\Users\mades\OneDrive\Documents\Desktop\Diabetic-Retinopathy-Severity-Classification-and-Clinical-Reporting-System-main\data\eyeq\images\EyeQ_05.jpg
+EyeQ_06,Reject,2,C:\Users\mades\OneDrive\Documents\Desktop\Diabetic-Retinopathy-Severity-Classification-and-Clinical-Reporting-System-main\data\eyeq\images\EyeQ_06.jpg
